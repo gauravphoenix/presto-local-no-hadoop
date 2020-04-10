@@ -26,7 +26,8 @@ and query it via `select * from baz;`
 
 Following screenshot shows the command sequence we have used since we got the Presto CLI shell- 
 
-![example shell](https://github.com/gauravphoenix/presto-local-no-hadoop/blob/master/shell.png)
+![example shell](https://github.com/gauravphoenix/presto-local-no-hadoop/raw/master/shell.png)
+
 
   
 ## Wait, is there really no Hadoop involved?  
