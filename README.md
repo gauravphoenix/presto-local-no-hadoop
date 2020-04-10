@@ -1,4 +1,5 @@
 
+
 # Presto Docker Quickstart (with no Hadoop)  
   
 ## What is it?  
@@ -51,4 +52,4 @@ There are two ways.
   
 ## How closely it resembles the actual production setup?  
   
-The major difference is that we are not using a real Hive metastore here. In production, you would want to use something like AWS Glue or a real Apache Hive Metastore.
+The major difference is that we are not using a real Hive metastore here. In production, you would want to use something like [AWS Glue](https://aws.amazon.com/glue/) or a real Apache Hive Metastore.
