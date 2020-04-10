@@ -1,10 +1,10 @@
 
 
-# Presto Docker Quickstart (with no Hadoop)  
+# PrestoSQL Docker Quickstart (with no Hadoop)  
   
 ## What is it?  
   
-This docker image allows you to quickly play with Presto. It comes pre-bundled with MinIO. There is absolutely no running Hadoop component in it. It is perfect for local development when you have a bunch of data in CSV/ORC format and you just want to query it.  
+This docker image allows you to quickly play with PrestoSQL. It comes pre-bundled with MinIO. There is absolutely no running Hadoop component in it. It is perfect for local development when you have a bunch of data in CSV/ORC format and you just want to query it.  
   
 Some say that it is the next best thing to sourdough bread.  
   
