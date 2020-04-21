@@ -9,7 +9,7 @@ This docker image allows you to quickly play with PrestoSQL. It comes pre-bundle
 Some say that it is the next best thing to sourdough bread.  
   
 ## How do I launch the container?  
-Simply run command `docker run -p 8080:8080 -p 9000:9000 -it --name presto-local presto-minio-no-hadoop:latest`  
+Simply run command `docker run -p 8080:8080 -p 9000:9000 -it --name presto-local gauravphoenix/presto-local-no-hadoop:latest`  
   
 Make sure that your machine is not running any process on port 8080 and 9000. Presto is exposed on port 8080 and MinIO on port 9000  
 
